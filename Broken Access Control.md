@@ -12,4 +12,4 @@
   - **ป้องกันอย่างไร**
     ใช้ HTTPS เพื่อเข้ารหัสข้อมูลที่ส่งผ่านเครือข่าย และตรวจสอบว่าเซสชันไม่ถูกขโมยโดยการตรวจสอบ IP และ user agent
 
-<code style="color : blue">text</code>
+<code style="color : blue">text</code><font color="green"> Some green text </font>
