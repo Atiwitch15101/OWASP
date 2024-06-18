@@ -12,10 +12,4 @@
   - **ป้องกันอย่างไร**
     ใช้ HTTPS เพื่อเข้ารหัสข้อมูลที่ส่งผ่านเครือข่าย และตรวจสอบว่าเซสชันไม่ถูกขโมยโดยการตรวจสอบ IP และ user agent
 
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
+<code style="color : cyan">text</code>
