@@ -39,7 +39,7 @@ ___
   - **ป้องกันอย่างไร**
     > กำหนดการตรวจสอบสิทธิ์ในทุกฟังก์ชันที่มีความสำคัญ และตรวจสอบสิทธิ์ของผู้ใช้ก่อนการเข้าถึงฟังก์ชันนั้น ๆ
     
-    - **Video ตัวอย่าง** [Missing Function Level Access Control](https://youtu.be/C-MTbhfXbgg)
+  - **Video ตัวอย่าง** [Missing Function Level Access Control](https://youtu.be/C-MTbhfXbgg)
 
 ___
 
@@ -53,6 +53,6 @@ ___
   - **ป้องกันอย่างไร**
     > ใช้การเข้ารหัสคุกกี้และตรวจสอบความถูกต้องของคุกกี้อย่างสม่ำเสมอ เช่น การใช้ HMAC (Hash-based Message Authentication Code)
     
-    - **Video ตัวอย่าง** [Spoofing an Authentication Cookie](https://youtu.be/-n4OmhUN3vA)
+  - **Video ตัวอย่าง** [Spoofing an Authentication Cookie](https://youtu.be/-n4OmhUN3vA)
     
 ___
