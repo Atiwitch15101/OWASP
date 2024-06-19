@@ -12,8 +12,7 @@
   - **ป้องกันอย่างไร**
     > ใช้ HTTPS เพื่อเข้ารหัสข้อมูลที่ส่งผ่านเครือข่าย และตรวจสอบว่าเซสชันไม่ถูกขโมยโดยการตรวจสอบ IP และ user agent
 
-  - **Video ตัวอย่าง**
-    > [Hijack Session](https://youtu.be/R5YPRhM5GyE)
+  - **Video ตัวอย่าง** [Hijack Session](https://youtu.be/YO8rsCMVUyY)
 ___
 
 # 2.Insecure Direct Object References (IDOR)
@@ -26,9 +25,11 @@ ___
   - **ป้องกันอย่างไร**
     > ตรวจสอบสิทธิ์ของผู้ใช้ทุกครั้งที่มีการเข้าถึงข้อมูลหรือวัตถุโดยตรง และไม่ควรใช้อ้างอิงโดยตรงใน URL
 
+  - **Video ตัวอย่าง** [Insecure Direct Object References (IDOR)](https://youtu.be/8fMFLqbd0-Y)
+    
 ___
 
-# 3.Missing Function Level Access Control:
+# 3.Missing Function Level Access Control
 
 การควบคุมการเข้าถึงฟังก์ชันที่ขาดหายไป (Missing Function Level Access Control) นี่เกิดขึ้นเมื่อระบบไม่มีการตรวจสอบสิทธิ์ของผู้ใช้เมื่อมีการเรียกใช้งานฟังก์ชันหรือการกระทำที่ต้องการสิทธิ์พิเศษ ทำให้ผู้ไม่ประสงค์ดีสามารถเข้าถึงฟังก์ชันนั้นได้โดยไม่ได้รับอนุญาต
 
@@ -37,10 +38,12 @@ ___
     
   - **ป้องกันอย่างไร**
     > กำหนดการตรวจสอบสิทธิ์ในทุกฟังก์ชันที่มีความสำคัญ และตรวจสอบสิทธิ์ของผู้ใช้ก่อนการเข้าถึงฟังก์ชันนั้น ๆ
+    
+    - **Video ตัวอย่าง** [Missing Function Level Access Control](https://youtu.be/C-MTbhfXbgg)
 
 ___
 
-# 4.Spoofing an Authentication Cookie:
+# 4.Spoofing an Authentication Cookie
 
 การปลอมแปลงคุกกี้การตรวจสอบและรับรองตัวตน (Spoofing an Authentication Cookie) สิ่งนี้เกิดขึ้นเมื่อผู้ไม่ประสงค์ดีสร้างคุกกี้การตรวจสอบและรับรองตัวตนปลอมแปลงเพื่อให้ระบบคิดว่าเป็นผู้ใช้ที่ถูกต้องและให้สิทธิ์เข้าถึงที่ไม่เหมาะสม
 
@@ -49,5 +52,7 @@ ___
     
   - **ป้องกันอย่างไร**
     > ใช้การเข้ารหัสคุกกี้และตรวจสอบความถูกต้องของคุกกี้อย่างสม่ำเสมอ เช่น การใช้ HMAC (Hash-based Message Authentication Code)
-
+    
+    - **Video ตัวอย่าง** [Spoofing an Authentication Cookie](https://youtu.be/-n4OmhUN3vA)
+    
 ___
