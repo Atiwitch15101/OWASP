@@ -55,6 +55,6 @@ ___
   - **ป้องกันอย่างไร**
     > ใช้การเข้ารหัสคุกกี้และตรวจสอบความถูกต้องของคุกกี้อย่างสม่ำเสมอ เช่น การใช้ HMAC (Hash-based Message Authentication Code)
     
-  - **Video ตัวอย่าง** [Spoofing an Authentication Cookie](https://youtu.be/-n4OmhUN3vA)
+  - **Video ตัวอย่าง** [Spoofing an Authentication Cookie](https://youtu.be/8lGPuV0iBTI?si=WmIajDajJAMZg4q9)
     
 ___
