@@ -12,7 +12,10 @@
   - **ป้องกันอย่างไร**
     > ใช้ HTTPS เพื่อเข้ารหัสข้อมูลที่ส่งผ่านเครือข่าย และตรวจสอบว่าเซสชันไม่ถูกขโมยโดยการตรวจสอบ IP และ user agent
 
-  - **Video ตัวอย่าง** [Hijack Session](https://youtu.be/YO8rsCMVUyY)
+  ### 
+  
+  Video ตัวอย่าง [Hijack Session](https://youtu.be/YO8rsCMVUyY)
+  
 ___
 
 ## 2.Insecure Direct Object References (IDOR)
@@ -25,7 +28,9 @@ ___
   - **ป้องกันอย่างไร**
     > ตรวจสอบสิทธิ์ของผู้ใช้ทุกครั้งที่มีการเข้าถึงข้อมูลหรือวัตถุโดยตรง และไม่ควรใช้อ้างอิงโดยตรงใน URL
 
-  - **Video ตัวอย่าง** [Insecure Direct Object References (IDOR)](https://youtu.be/8fMFLqbd0-Y)
+  ### Video ตัวอย่าง 
+  
+  [Insecure Direct Object References (IDOR)](https://youtu.be/8fMFLqbd0-Y)
     
 ___
 
@@ -55,6 +60,8 @@ ___
   - **ป้องกันอย่างไร**
     > ใช้การเข้ารหัสคุกกี้และตรวจสอบความถูกต้องของคุกกี้อย่างสม่ำเสมอ เช่น การใช้ HMAC (Hash-based Message Authentication Code)
     
-  - **Video ตัวอย่าง** [Spoofing an Authentication Cookie](https://youtu.be/8lGPuV0iBTI?si=WmIajDajJAMZg4q9)
+  ### Video ตัวอย่าง 
+  
+  [Spoofing an Authentication Cookie](https://youtu.be/8lGPuV0iBTI?si=WmIajDajJAMZg4q9)
     
 ___
