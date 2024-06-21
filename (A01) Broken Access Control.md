@@ -12,9 +12,9 @@
   - **ป้องกันอย่างไร**
     > ใช้ HTTPS เพื่อเข้ารหัสข้อมูลที่ส่งผ่านเครือข่าย และตรวจสอบว่าเซสชันไม่ถูกขโมยโดยการตรวจสอบ IP และ user agent
 
-  ### 
+  ### Video ตัวอย่าง 
   
-  Video ตัวอย่าง [Hijack Session](https://youtu.be/YO8rsCMVUyY)
+  [Hijack Session](https://youtu.be/YO8rsCMVUyY)
   
 ___
 
