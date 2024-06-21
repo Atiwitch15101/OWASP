@@ -39,7 +39,9 @@ ___
   - **ป้องกันอย่างไร**
     > กำหนดการตรวจสอบสิทธิ์ในทุกฟังก์ชันที่มีความสำคัญ และตรวจสอบสิทธิ์ของผู้ใช้ก่อนการเข้าถึงฟังก์ชันนั้น ๆ
     
-  - **Video ตัวอย่าง** [Missing Function Level Access Control](https://youtu.be/C-MTbhfXbgg)
+  ### Video ตัวอย่าง 
+  
+  [Webgoat (A1) Missing Function Level Access Control](https://youtu.be/M583R6MWHXM)
 
 ___
 
