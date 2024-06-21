@@ -158,5 +158,6 @@ ___
     
 ___
 
-  - **Video ตัวอย่าง** [Insecure Direct Object References (IDOR)]
-https://youtu.be/ybdR4mIXrvw
+  ### Video ตัวอย่าง 
+  
+  [Webgoat (A2) Cryptographic Failures](https://youtu.be/ybdR4mIXrvw)
